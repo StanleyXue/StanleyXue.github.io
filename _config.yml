@@ -10,7 +10,7 @@ blog:
                                All praise and glory to the Lord most high!
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
+  logo_path                  : "assets/img/cross.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
@@ -32,7 +32,7 @@ author:
   twitter                   : twitter-user-name
   github                    : 
   youtube                   : Cindy Liu
-  stackoverflow             : stackoverflow-user-name
+  stackoverflow             : 
   disqus                    : His Plan # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
