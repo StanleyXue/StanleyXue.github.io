@@ -11,7 +11,7 @@ published: true
 <img
     class="me"
     alt="{{ Cindy }}"
-    src="{{ ../xingxing.png }}"
+    src="{{ xingxing.jpg }}"
     srcset="{{  }} 2x"
 /> 
 {% endcapture %}
