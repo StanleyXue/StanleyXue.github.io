@@ -12,7 +12,7 @@ published: true
     class="me"
     alt="{{ Cindy }}"
     src="{{ xingxing.jpg }}"
-/> 
+> 
 {% endcapture %}
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
