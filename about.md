@@ -11,8 +11,8 @@ published: true
 <img
     class="me"
     alt="{{ Cindy }}"
-    src="{{ uploads/xingxing.png | relative_url }}"
-    srcset="{{ site.author.photo2x | relative_url }} 2x"
+    src="{{ uploads/xingxing.png }}"
+    srcset="{{  }} 2x"
 /> 
 {% endcapture %}
 
