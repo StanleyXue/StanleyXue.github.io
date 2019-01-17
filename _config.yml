@@ -7,10 +7,10 @@ url                          : "" # the base hostname & protocol for your site
 blog:
   title                      : His Plan
   description                  : >
-                               this should contain a proper description
+                               All praise and glory to the Lord most high!
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
+  logo_path                  : "assets/img/cross.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
@@ -27,13 +27,13 @@ blog:
 # Author info
 author:
   fullname                  : Cindy Liu
-  rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
+  rss                       : false # generate RSS feed and show it's icon in header
+  mail                      : xingxing@hisplan.info # change to your e-mail address
   twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
+  github                    : 
+  youtube                   : Cindy Liu
+  stackoverflow             : 
+  disqus                    : His Plan # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
