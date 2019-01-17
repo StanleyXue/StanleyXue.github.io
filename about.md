@@ -10,15 +10,15 @@ published: true
 {% capture page_subtitle %}
 <img
     class="me"
-    alt="{{ author.name }}"
-    src="{{ site.author.photo | relative_url }}"
+    alt="{{ Cindy }}"
+    src="{{ uploads/xingxing.png | relative_url }}"
     srcset="{{ site.author.photo2x | relative_url }} 2x"
-/>
+/> 
 {% endcapture %}
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## Some heading 
+## About the author 
 
 Xing Xing was born in China, and migrated to America in 1981, then to Australia in 1993. She holds a Bachelor Degree of Management and International Business (with Dean's commendation) from the University of Sunshine Coast Queensland. A Diploma in Theology from Brisbane School of Theology.
 
