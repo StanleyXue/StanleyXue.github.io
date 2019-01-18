@@ -4,7 +4,7 @@ title:  "Welcome to his plan!"
 tags:
   - Cindy Liu
   - 
-hero: https://source.unsplash.com/collection/430471/
+hero: https://static.billygraham.org/sites/billygrahamlibrary.org/uploads/pro/2016/03/Cross-Easter.jpg
 overlay: red
 published: true
 
