@@ -7,14 +7,12 @@ published: true
 
 <div class="page" markdown="1">
 
-{% capture page_subtitle %}
-<img
+<img 
     class="me"
-    alt="{{ Cindy }}"
-    src="{{ https://static.billygraham.org/sites/billygrahamlibrary.org/uploads/pro/2016/03/Cross-Easter.jpg }}"> 
-{% endcapture %}
+    alt="Cindy"
+    src="https://static.billygraham.org/sites/billygrahamlibrary.org/uploads/pro/2016/03/Cross-Easter.jpg"> 
 
-{% include page/title.html title=page.title subtitle=page_subtitle %}
+
 
 ## About the author 1
 
