@@ -5,7 +5,7 @@ tags:
   - Cindy Liu
   - 
 hero: https://static.billygraham.org/sites/billygrahamlibrary.org/uploads/pro/2016/03/Cross-Easter.jpg
-overlay: red
+overlay: blue
 published: true
 
 ---
