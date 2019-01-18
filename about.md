@@ -11,7 +11,7 @@ published: true
 <img
     class="me"
     alt="{{ Cindy }}"
-    src="{{ xingxing.jpg }}"> 
+    src="{{ https://static.billygraham.org/sites/billygrahamlibrary.org/uploads/pro/2016/03/Cross-Easter.jpg }}"> 
 {% endcapture %}
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
