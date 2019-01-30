@@ -14,7 +14,7 @@ published: true
 
 
 
-## About the author 1
+## About the author 
 
 Xing Xing was born in China, and migrated to America in 1981, then to Australia in 1993. She holds a Bachelor Degree of Management and International Business (with Dean's commendation) from the University of Sunshine Coast Queensland. A Diploma in Theology from Brisbane School of Theology.
 
