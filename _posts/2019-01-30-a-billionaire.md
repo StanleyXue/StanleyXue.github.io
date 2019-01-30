@@ -2,7 +2,7 @@
 layout: post
 title:  "Testimony-A Billionaire"
 tags:
-  - Cindy Liu
+  - billionaire
   - 
 hero: https://source.unsplash.com/collection/430471/
 overlay: red
