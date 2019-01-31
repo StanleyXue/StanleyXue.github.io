@@ -286,3 +286,8 @@ The three main roles of a sacrificial leader during the stages of succession are
       <td></td>
    </tr>
 </table>
+
+## Strategies for Organization and Pioneers 
+A Pioneers’ success is in the sacrifice, as Jesus has done. Jesus without reservation shared His wisdom and ministry experience with His disciples (John 15:15). He empowered and paved the way for them to preach the gospel just as He did.  Therefore, Pioneers must share wholeheartedly, all the wisdom, ability and mission experience from God. They must willingly sacrifice everything for the Successor to enable them to follow the pioneer path.
+(xxxx/Pionner Path.jpg)
+
