@@ -249,3 +249,33 @@ Continue helping pastoral and Pioneer Successors
 </td>
     </tr>
 </table>
+
+### Three key roles of a sacrificial leader
+The three main roles of a sacrificial leader during the stages of succession are based on the actions of service, sacrifice and sustain. The roles are as follows:  
+•	Servant who ministers to Successors (serving and being served) Matthew 20:26-27
+•	Sacrificer who sacrifices for Successors (sacrificing and being sacrificed for) Matthew 20:28
+•	Sustainer who stays on to help Successors (sustaining and being sustained) John 14:26
+
+### Pioneer interview questions based on the word
+|• How do you know you were called to impact a nation? (Rom 15:20)|
+|• How do you sense an opportunity for a spiritual harvest?
+(John 4:35-38)
+|
+|• Why are your gifts more suitable than a pastor to do pioneering work?
+(1 Corinthians 3:6-10)
+|
+|• Are you commissioned and monitored by a church?
+(Eph 3:10)
+|
+|• How do you cooperate and work with the church?
+(Joshua 1:6,14)
+|
+|• Why do you believe you can disciple new believers and train Successors?
+(2 Tim 2:2)
+|
+|• Are you willing to be succeeded by the new leader? How?
+(Matt 20:26-28)
+|
+|• How do you walk with the Lord?
+(Galatian 5:16,25)
+|
