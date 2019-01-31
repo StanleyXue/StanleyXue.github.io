@@ -4,7 +4,7 @@ title:  "Testimony-A Billionaire"
 tags:
   - billionaire
   - 
-hero: https://source.unsplash.com/collection/430471/
+hero: https://images.unsplash.com/photo-1427751840561-9852520f8ce8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9
 overlay: red
 published: true
 
