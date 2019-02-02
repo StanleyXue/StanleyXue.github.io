@@ -181,9 +181,61 @@ The Pioneer plan also includes:
 There are at least two cycles in a seven-year period. During this time, a Pioneer should establish three generations of local Pioneers. The founding Pioneer's role changes during this time from servant to sacrifice to sustainer. 
 Each role is described in the chart below：
 
-|||
-|||
-|||
+<table>
+   <tr>
+      <td>Roles</td>
+      <td>Serve </td>
+      <td></td>
+      <td></td>
+      <td>Sacrifice</td>
+      <td>Sustain</td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>Timeline</td>
+      <td>Year 1 </td>
+      <td>Year 2</td>
+      <td>Year 3</td>
+      <td>Year 4</td>
+      <td>Year 5</td>
+      <td>Year 6</td>
+      <td>Year 7</td>
+   </tr>
+   <tr>
+      <td>Predecessors</td>
+      <td>Evangelise and Disciple</td>
+      <td>Identify successors</td>
+      <td>Appoint successor</td>
+      <td>Handover leadership</td>
+      <td>Advocate for new leaders</td>
+      <td>Help leader prepare</td>
+      <td>Prepare to move on</td>
+   </tr>
+   <tr>
+      <td>Successors</td>
+      <td>Serve with no expectations</td>
+      <td>Learn to lead others in love</td>
+      <td>Prepare for leadership</td>
+      <td>Receive gift of leadership</td>
+      <td>Evangelise and Disciple</td>
+      <td>Identify successors</td>
+      <td>Appoint successor</td>
+   </tr>
+   <tr>
+      <td>Disciples</td>
+      <td>Learn to serve and sacrifice</td>
+      <td>Serve with no expectations</td>
+      <td>Learn to lead others in love</td>
+      <td>Help with the transition</td>
+      <td>Prepare for leadership</td>
+      <td>Appointed as successor</td>
+      <td>Receive gift of leadership</td>
+   </tr>
+   <tr>
+      <td></td>
+   </tr>
+</table>
 
 ## Pioneer Selection Criteria
 The key to a successful mission project is to find the called Pioneers. We believe that God has already prepared His people for mission work. Our job is to find them and to equip them. 
