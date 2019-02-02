@@ -137,10 +137,10 @@ The Mission Projects effectiveness is displayed through a Key Performance Indica
 Evaluation of Local National Church Partners and Pioneers’ mission effectiveness is based on four Key Performance Areas in 10 key performance indicators:   
 <table>
    <tr>
-      <td colspan="2" align="center">10 Key Performance Indicators (KPIs) for Local National Church Partners and Pioneers</td>
+      <td colspan="2" align="center">*10 Key Performance Indicators (KPIs) for Local National Church Partners and Pioneers*</td>
    </tr>
    <tr>
-      <td colspan="2">1. Personal Financial Stewardship and Sustainability</td>
+      <td colspan="2">*1. Personal Financial Stewardship and Sustainability*</td>
    </tr>
    <tr>
       <td>Mission Organization Support</td>
@@ -151,7 +151,7 @@ Evaluation of Local National Church Partners and Pioneers’ mission effectivene
       <td>Increasing financial amounts received from non-mission organization sources</td>
    </tr>
    <tr>
-      <td colspan="2">2. Evangelism Focuso on Targeting the impact Nation</td>
+      <td colspan="2">*2. Evangelism Focuso on Targeting the impact Nation*</td>
    </tr>
    <tr>
       <td>People Evangelised</td>
@@ -162,7 +162,7 @@ Evaluation of Local National Church Partners and Pioneers’ mission effectivene
       <td>Number of new converts from target people group and locality</td>
    </tr>
    <tr>
-      <td colspan="2">3. Discipleship of New Believers from this Impacted Nation</td>
+      <td colspan="2">*3. Discipleship of New Believers from this Impacted Nation*</td>
    </tr>
    <tr>
       <td>Baptised Believers</td>
@@ -177,7 +177,7 @@ Evaluation of Local National Church Partners and Pioneers’ mission effectivene
       <td>Number of people regularly attending these fellowships or churches</td>
    </tr>
    <tr>
-      <td colspan="2">4. Multiplication of the Work through Sacrificial Succession</td>
+      <td colspan="2">*4. Multiplication of the Work through Sacrificial Succession*</td>
    </tr>
    <tr>
       <td>Pioneer Successors</td>
@@ -199,10 +199,10 @@ Evaluation of Local National Church Partners and Pioneers’ mission effectivene
 Evaluation of Project Managers and Coordinators’ Mission Effectiveness is based on five Key Performance Areas and 10 key performance indicators:
 <table>
    <tr>
-      <td colspan="2">10 Key Mission Project Performance Indicators (KPIs) for Project Managers and Coordinators</td>
+      <td colspan="2">*10 Key Mission Project Performance Indicators (KPIs) for Project Managers and Coordinators*</td>
    </tr>
    <tr>
-      <td colspan="2">1. Personal Financial Stewardship and Accountability</td>
+      <td colspan="2">*1. Personal Financial Stewardship and Accountability*</td>
    </tr>
    <tr>
       <td>Mission Organization Support</td>
@@ -213,7 +213,7 @@ Evaluation of Project Managers and Coordinators’ Mission Effectiveness is base
       <td>Amounts received from non-mission organization sources such as gifts or donations</td>
    </tr>
    <tr>
-      <td colspan="2">2. Evaluation of Spiritual Mission Effectiveness Reports </td>
+      <td colspan="2">*2. Evaluation of Spiritual Mission Effectiveness Reports* </td>
    </tr>
    <tr>
       <td>Spiritual Reports</td>
@@ -224,7 +224,7 @@ Evaluation of Project Managers and Coordinators’ Mission Effectiveness is base
       <td>Storing, translating and sending personal testimonies especially from field trips  </td>
    </tr>
    <tr>
-      <td colspan="2">3. Comparison of Partner Financial and Spiritual Reports</td>
+      <td colspan="2">*3. Comparison of Partner Financial and Spiritual Reports*</td>
    </tr>
    <tr>
       <td>Financial Reports</td>
@@ -235,7 +235,7 @@ Evaluation of Project Managers and Coordinators’ Mission Effectiveness is base
       <td>Compare the mission effectiveness of partner reports to identify interesting trends</td>
    </tr>
    <tr>
-      <td colspan="2">4. Confirmation of Mission Effectiveness through Field Trips</td>
+      <td colspan="2">*4. Confirmation of Mission Effectiveness through Field Trips*</td>
    </tr>
    <tr>
       <td>Field Trips</td>
@@ -246,7 +246,7 @@ Evaluation of Project Managers and Coordinators’ Mission Effectiveness is base
       <td>Number of Pioneers visited on each trip confirmed by gathered testimonies  </td>
    </tr>
    <tr>
-      <td colspan="2">5. Evidence of Good Stewardship of Time and Time Management</td>
+      <td colspan="2">*5. Evidence of Good Stewardship of Time and Time Management*</td>
    </tr>
    <tr>
       <td>Hours Worked</td>
