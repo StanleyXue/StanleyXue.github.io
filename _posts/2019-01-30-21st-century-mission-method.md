@@ -184,13 +184,9 @@ Each role is described in the chart below：
 <table>
    <tr>
       <td>Roles</td>
-      <td>Serve </td>
-      <td></td>
-      <td></td>
+      <td colspan="3"> Serve </td>
       <td>Sacrifice</td>
-      <td>Sustain</td>
-      <td></td>
-      <td></td>
+      <td colspan="3"> Sustain</td>
    </tr>
    <tr>
       <td>Timeline</td>
