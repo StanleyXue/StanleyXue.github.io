@@ -4,8 +4,8 @@ title:  "Testimony-An Academic"
 tags:
   - academic
   - 
-hero: https://source.unsplash.com/collection/430471/
-overlay: red
+hero: https://i.postimg.cc/Y0DrkZJ7/book.jpg
+overlay: green
 published: true
 
 ---
