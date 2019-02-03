@@ -10,6 +10,7 @@ published: true
 
 ---
 This book is based on true testimonies and bears witness to the power of Jesus in the Christian life. It was written by faith through the leading of the Holy Spirit.     
+<!–-break-–>
 
 I would like to dedicate this book to the Lord. I also donate this book to brother Abraham and Joshua’s ministry. May they freely use it in their continued ministry to impact the nations. 
 
