@@ -5,7 +5,7 @@ tags:
   - billionaire
   - 
 hero: https://i.postimg.cc/xTHfBxtw/wealth.jpg
-overlay: yellow
+overlay: （90,0,200）
 published: true
 
 ---
