@@ -5,7 +5,7 @@ tags:
   - Mission
   - 
 hero: https://cdn.pixabay.com/photo/2018/03/16/09/35/man-3230661_1280.jpg
-overlay: rgba(255,255,255,.8)
+overlay: rgba(255,255,255,1)
 published: true
 
 ---
