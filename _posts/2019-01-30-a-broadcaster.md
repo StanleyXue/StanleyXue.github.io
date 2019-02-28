@@ -4,8 +4,8 @@ title:  "Testimony-A Broadcaster"
 tags:
   - broadcaster
   - 
-hero: https://source.unsplash.com/collection/430471/
-overlay: red
+hero: https://pixabay.com/photos/music-mixer-sound-mixing-volume-2308509/
+overlay: purple
 published: true
 
 ---
