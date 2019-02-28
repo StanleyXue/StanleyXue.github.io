@@ -4,8 +4,8 @@ title:  "21st Century Mission Method"
 tags:
   - Mission
   - 
-hero: https://denmon.lawyer/wp-content/uploads/2016/02/19154622_m-e1427152577731-848x445.jpg
-overlay: green
+hero: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1981&q=80
+overlay: gred
 published: true
 
 ---
