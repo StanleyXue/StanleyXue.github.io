@@ -4,7 +4,7 @@ title:  "21st Century Mission Method"
 tags:
   - Mission
   - 
-hero: https://cdn.pixabay.com/photo/2018/03/16/09/35/man-3230661_1280.jpg
+hero: https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1981&q=80
 overlay: gred
 published: true
 
