@@ -5,7 +5,7 @@ tags:
   - academic
   - 
 hero: https://i.postimg.cc/Y0DrkZJ7/book.jpg
-overlay: green
+overlay: red
 published: true
 
 ---
