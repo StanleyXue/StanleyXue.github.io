@@ -4,8 +4,8 @@ title:  "Mission Management"
 tags:
   - Mission
   - 
-hero: https://source.unsplash.com/collection/430471/
-overlay: red
+hero: https://cdn.pixabay.com/photo/2018/03/16/09/35/man-3230661_1280.jpg
+overlay: 
 published: true
 
 ---
