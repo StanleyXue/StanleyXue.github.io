@@ -4,7 +4,7 @@ title:  "Testimony-A Billionaire"
 tags:
   - 
   - 
-hero: https://i.postimg.cc/xTHfBxtw/wealth.jpg
+hero: http://chadhowsefitness.com/wp-content/uploads/2014/10/business-man.jpg
 overlay: gold 
 published: true
 
