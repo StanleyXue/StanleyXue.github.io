@@ -2,8 +2,8 @@
 layout: post
 title:  "Welcome to his plan!"
 tags:
-  - lord
-  - mission
+  - 
+  - 
 hero: https://static.billygraham.org/sites/billygrahamlibrary.org/uploads/pro/2016/03/Cross-Easter.jpg
 overlay: blue
 published: true

@@ -2,7 +2,7 @@
 layout: post
 title:  "Testimony-A Billionaire"
 tags:
-  - billionaire
+  - 
   - 
 hero: https://i.postimg.cc/xTHfBxtw/wealth.jpg
 overlay: gold 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Mission Management"
 tags:
-  - Mission
+  - 
   - 
 hero: https://images.unsplash.com/photo-1521189510502-3dbdb40d8bc0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1949&q=80
 overlay: aqua
