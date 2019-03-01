@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to his plan!"
+title:  "Welcome to His Plan!"
 tags:
   - 
   - 
