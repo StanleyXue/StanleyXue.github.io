@@ -4,7 +4,7 @@ title:  "21st Century Mission Method"
 tags:
   - 
   - 
-hero: https://1.bp.blogspot.com/-qErCjUfGfeg/XHu5nQ2-6uI/AAAAAAAAAAM/U4j2Kc9oGucwPNWE6mWGEpHm5atwG2NzwCLcBGAs/s1600/urdu.jpg
+hero: https://3.bp.blogspot.com/-frGV2fOVSDc/XHu6iq_CXKI/AAAAAAAAAAY/eqkuXOY0QrQ06RuZUmuFhfLXRutQUJ5vACLcBGAs/s1600/urdu.jpg
 overlay: gred
 published: true
 
